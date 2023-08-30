@@ -1,6 +1,6 @@
 # Описание проекта
 
-[Полный проект в HTML-формате]() 
+[Полный проект в HTML-формате](https://htmlpreview.github.io/?https://raw.githubusercontent.com/vgvsk/Data-Analyst-Portfolio/main/Question-and-answer%20website%20analysis/Question-and-answer%20website%20analysis.html?token=GHSAT0AAAAAACGWKRUMET2UU6G2XTDUD6VQZHPYI4A) 
 <br>[Тетрадь проекта](https://github.com/vgvsk/Data-Analyst-Portfolio/blob/854bc305951c7aec1fb7cca219f5d594c736e07f/Question-and-answer%20website%20analysis/Question-and-answer%20website%20analysis.ipynb)
 
 **Цель** - изучить активность пользователей сервиса вопросов-и-ответов по программированию, Stack Overflow, за 2008 год.
