@@ -1,6 +1,6 @@
 # Описание проекта
 
-[Полный проект в HTML-формате]() 
+[Полный проект в HTML-формате](https://htmlpreview.github.io/?https://raw.githubusercontent.com/vgvsk/Data-Analyst-Portfolio/main/Segmentation/Segmentation.html?token=GHSAT0AAAAAACGWKRUMIEZS3M6JCT642Q6MZHPYKMA) 
 <br>[Тетрадь проекта](https://github.com/vgvsk/Data-Analyst-Portfolio/blob/55bd0c64923f75bbc50098430f246a886c0a3e6a/Segmentation/Segmentation.ipynb)
 
 **Цель** - понять, какая аудитория является целевой для приложения «Ненужные вещи».
