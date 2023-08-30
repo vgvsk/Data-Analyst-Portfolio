@@ -1,6 +1,6 @@
 # Описание проекта
 
-[Полный проект в HTML-формате]() 
+[Полный проект в HTML-формате](https://htmlpreview.github.io/?https://raw.githubusercontent.com/vgvsk/Data-Analyst-Portfolio/main/Game%20Success/Game%20Success.html?token=GHSAT0AAAAAACGWKRUNXYEK33JQPWKAUJGOZHPYEHA) 
 <br>[Тетрадь проекта](https://github.com/vgvsk/Data-Analyst-Portfolio/blob/13572923f8a647a858be96eab319f1532cb669c1/Game%20Success/Game%20Success.ipynb)
 
 **Цель** - на основе исторических данных выявить закономерности успеха видеоигр в разных регионах мира.
